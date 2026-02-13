@@ -7,6 +7,7 @@ spending behavior and credit history.
 ### Ressources:
 Unsupervised Learning: https://www.geeksforgeeks.org/machine-learning/unsupervised-learning/
 K-Means Clustering Explination: https://www.youtube.com/watch?v=6JQK03IGIvU
+Repo guide: https://github.com/dataquestio/solutions/blob/master/Mission745Solutions.ipynb
 
 
 # DataSet
@@ -20,5 +21,4 @@ varaibles explination:
 - total_trans_count: how many transaction did
 
 **Others Variable easy to understand**
-
 
