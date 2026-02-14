@@ -4,10 +4,10 @@ and we want to group customers into different "personas OR profilies" based on t
 spending behavior and credit history.
 
 
-
 ## DataSet
 varaibles explination:
-- dependent_count: how many childre he have
+- age: customer age
+- dependent_count: how many children he have
 - months_on_book: number of months the customer has been with the company.
 - total_relationship_count: how many products client uses.
 - months_inactive_12_mon: number of month customer does not use credit card for past 12 months.
